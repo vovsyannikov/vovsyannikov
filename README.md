@@ -9,7 +9,7 @@ I am a mobile developer focusing primarily on iOS but also learning Android Deve
 
 #### Current tech stack:
 
-iOS/iPadOS:
+📱 iOS/iPadOS:
 
 - 🍏 UIKit
 - 🍎 SwiftUI
