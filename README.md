@@ -18,7 +18,7 @@ I am a mobile developer focusing primarily on iOS but also learning Android / Ko
 - 🛤️ GCD
 - 🏎️ Structured Concurrency
 
-📖 Android:
+📖 Android / KMP:
 
 - Kotlin
 - Jetpack Compose
