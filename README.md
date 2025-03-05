@@ -5,7 +5,7 @@
 </div>
 
 ### 👨 About Me:
-I am a mobile developer focusing primarily on iOS but also learning Android Development using Jetpack Compose
+I am a mobile developer focusing primarily on iOS but also learning Android / Kotlin Multiplatform development with Jetpack Compose
 
 #### Current tech stack:
 
