@@ -17,6 +17,7 @@ I am a mobile developer focusing primarily on iOS but also learning Android / Ko
 - 💾 SwiftData
 - 🛤️ GCD
 - 🏎️ Structured Concurrency
+- 🥤 Combine
 
 📖 Android / KMP:
 
